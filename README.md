@@ -1,11 +1,10 @@
-#Version Theory <br>
+#Aliens Connect <br>
 <br>
-A reality scary theory... just so creepy.. <br>
+Kepler is so far away... Let's deploy through git source control.. Time to merge it! =D<br>
 <br>
-No need to search... already in brain database.. =P =P <br>
+Life is so unfair... Let's runaway to kepler! (^_^) <br>
 <br>
-//TODO --- theory <br>
-<br>
+And we will build something so cool connecting with aliens. <br><br>
 BOOM! <br>
 <br>
 Performance matters! BOOM BOOM! <br>
