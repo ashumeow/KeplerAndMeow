@@ -12,7 +12,7 @@ Performance matters! BOOM BOOM! <br>
 <br>
 //TODO --- more more more... <br>
 <br>
-Kepler is so far away... Let's deploy through git source control.. =D
+Kepler is so far away... Let's deploy through git source control.. Time to merge it! =D
 <br>
 <br>
 //TODO -- change README soon =D =D
