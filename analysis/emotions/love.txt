@@ -17,8 +17,8 @@ After authentication, the signals does processes among one another, which in hum
 For longer adaption..
 1. Understanding - This is a method that is done though extracting & binding of other signals through observation.
 2. Trust - This is generated through belief, where the signals tend to stay confident over its opposite signals.
-3.
-
+3. Communication - This is done by interaction between two signals helping in knowing eachother through data transfer.
+4.
 
 
 
