@@ -1,1 +1,23 @@
 Eating refers to the consumption of food that enables in increasing and maintaining of battery.
+The food grinds and gets generated into fuel, where the fuel is added into the battery.
+The minimum and maximun battery strength is depended upon the type of food that is being consumed.
+After the battery gets low, then the living species must consume food again inorder to charge-up the battery fuel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
