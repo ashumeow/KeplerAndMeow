@@ -3,21 +3,7 @@ The food grinds and gets generated into fuel, where the fuel is added into the b
 The minimum and maximun battery strength is depended upon the type of food that is being consumed.
 After the battery gets low, then the living species must consume food again inorder to charge-up the battery fuel.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Digestion process:-
+Food is deployed into the stomach through a Git-like process where the food is committed and pushed.
+When another living creature want to dip food into mouth, the actual living creature will merge only if it accepts.
+This mechanism is know as Food source control, where it mainly does the food operation.
