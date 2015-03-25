@@ -1,1 +1,4 @@
 Thinking can be related to "search engines".
+Thoughts are the collection of thinking pieces.
+The collection of thoughts will be stored in the brain database known as memory.
+Each thought will be allocated in a memory register, where the thoughts will be accessed if living creature requires in future.
