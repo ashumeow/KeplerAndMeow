@@ -36,5 +36,4 @@ where the initial request is sent to the brain,
 And the initial response is generated through moods 
 which is done through acknowledgment that learning requires the mood of interest.
 
-To achieve focus, One needs to have a good metabolism in their body.
-Focus is possible through bad metabolism too, but it doesn't withstand longer.
+To achieve longer focus, One needs to have a good metabolism in their body.
