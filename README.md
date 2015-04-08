@@ -11,4 +11,4 @@ The aim of this work is to extend the level of curiosity on all aspects with the
 <br>
 This creative hobby work is licensed under <a href="https://github.com/ashumeow/KeplerMeow/blob/Version-Theory/LICENSE.md">Creative Commons Attribution 4.0 International</a>. <br>
 <br>
-[Credits will be added if the writer refers from anywhere.]
+[Credits will be added if the researcher/research scientist refers from anywhere.]
