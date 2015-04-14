@@ -7,15 +7,16 @@ Light is currently amplified through wired electricity, though Tesla believed in
 If the signals are transmitted in the speed of light, then it's possible to reach light years through just signals.
 The signals requires a network that could connect and record the distance it travels in the speed of light.
 Examples:
-Voyager 1 travels at the speed of 62,136kph which equivalent to 5.7573162831201E-8 c, which is less.
-Similarly Voyager 2 travels at the speed of 57,888kph which is equivalent to 5.3637106507863E-8 c, which is also less.
+Voyager 1 travels at the speed of 62,136kph which is equivalent to 5.7573162831201E-8 c. But, it's less.
+Similarly Voyager 2 travels at the speed of 57,888kph which is equivalent to 5.3637106507863E-8 c. But, it's also less.
 Because generally, 1 light speed is equivalent to 1079252848.8 kph
 For exploration itself, the speed isn't enough. Time isn't more, it's less.
 
-Case 2:-
+Case 2:- The possibility of living species travelling in light speed
+This can be initially set into possibility once when case-1 becomes possible.
 
-Case 3:-
-
+Case 3:- The possibility of bringing back the living species safely to Earth
+This can be initially set into possibility once when case-2 becomes possible.
 
 Refs.
 [1] https://www.youtube.com/watch?v=bpMDawJU8zI
