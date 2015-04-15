@@ -1,3 +1,11 @@
 The hand movements and leg movements are done with the help of the brain.
 The mechanism is being associated with the brain
 Every living species from every categories MUST require a brain inorder to make any hand movement or a leg movement.
+
+Relation:-
+The mechanism of hand-leg movements can be related in any ways...
+Relation 1: Mobile Cruise Controller
+In mobile cruise controller, the movement is mainly done through programming.
+Here, the brain can be related to the instructions that are passed for the cruise to make movements.
+Relation 2: Querying
+Relation 3: Languages/Scripts
