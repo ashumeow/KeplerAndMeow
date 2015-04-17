@@ -8,4 +8,8 @@ Relation 1: Mobile Cruise Controller
 In mobile cruise controller, the movement is mainly done through programming.
 Here, the brain can be related to the instructions that are passed for the cruise to make movements.
 Relation 2: Querying
+In querying, the dataset is already stored in database that gets imported while the body requires movement.
+left <- move left ## instruction gets imported from the dataset
 Relation 3: Languages/Scripts
+In languages/scripts, it helps the living species to program in a non-human format and help machines to understand.
+Similarly, the living species are also genetically programmed through DNA replication.
