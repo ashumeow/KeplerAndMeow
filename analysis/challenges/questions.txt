@@ -1,5 +1,5 @@
 How to connect?
-Why to connect?
+Why to connect? => To explore
 Where to connect?
 What to connect?
 Should we connect?
@@ -7,3 +7,11 @@ Should we connect?
 What are the possibilities?
 How can it be possible?
 Will it be possible?
+
+Before connecting, a tracker is required.
+How to track?
+Why to track? => To record the connecting distance and analyze it
+How to build a tracker?
+
+How to start tracker before connect?
+How to integrate track with connect?
