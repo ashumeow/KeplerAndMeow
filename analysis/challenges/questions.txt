@@ -6,12 +6,14 @@ Should we connect?
 
 What are the possibilities?
 How can it be possible?
-Will it be possible?
+Will it be possible? => Yes!
 
 Before connecting, a tracker is required.
-How to track?
+How to track? => Geo-locator
 Why to track? => To record the connecting distance and analyze it
-How to build a tracker?
+How to build a tracker? => There are existing ones.
+How to extend?
+How to implement tracking from one place without moving (tracking over longer distant planets/solar systems)?
 
 How to start tracker before connect?
 How to integrate track with connect?
