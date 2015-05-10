@@ -19,8 +19,8 @@ We could also relate that to Tesla unfinished wireless electricity transmitter i
 Nerves can't function without a brain. 
 
 If you were studying in school during 90s and if you were attentive in your early classes, 
-then you would came across something called the central nervous system [3]. 
-Only the things and parts of the central nervous systems are associated with the brain. 
+then you would came across something called the central nervous system [3] as well as the pheripheral nervous system. 
+Only things and parts of the central nervous system are associated with the brain & the pheripherals used for connecting. 
 The other parts are not related with the brain. 
 That's why our zoology teachers always separately teach circulatory system, nervous system, digestive system & reproductive system.
 
