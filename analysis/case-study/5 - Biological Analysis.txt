@@ -28,12 +28,12 @@ What we humans lack are:-
 Flying like a bird... For more, Watch X-men or any super-hero cartoons..
 The enhanced feature of an human is known as a super human.
 In discovery channel, they sometimes show a lot of special humans they came across.
-Morever, they will be guiness record (or something like that) as a symbol of recognition.
+Morever, they will get guiness record (or something like that) as a symbol of recognition.
 
 The best part of learning biology as core in high school inspite of Engineering passion is,
 We can learn the mechanical ways of how human anatomy is mantled and how it appears after getting dismantled.
 The parts of living species are more like hardware. We must know how to arrange.
-Inspite being average student, our zoology teacher shows real ones. Watching them turn us as curious wondering how it's built.
+In most zoolog classes, our teacher shown us real ones. Watching them turn us curious wondering how it's built/made.
 Sometimes, we catch one weak mosquitoe carefully, we start dissecting and analyze how it dies after survival.
 We learn circulatory system in humans and how blood is transferred just how peer-to-peer interconnections are made within the system for the blood to circulate.
 But in 10th grade, while learning cockroaches and personally dissecting them, their circulatory system appears weird.
@@ -72,3 +72,8 @@ Unless we go further and explore beyond, it will be hard to know how everything 
 [1] https://github.com/ashumeow/random-space-images
 [2] https://github.com/google/deepdream
 [3] https://en.wikipedia.org/wiki/Vertebrate
+
+This is more biology related case study with a mix of electrical, networks, web and hardwares.
+Aim is not to build a clone human. But, to understand the Earth biological classification (though not-in-depth)
+Whereas, it might helps us to further extend our mind in building an inter-planetary or inter-galaxy networks..
+Still more to explore! ;)
