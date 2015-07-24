@@ -5,14 +5,14 @@ This month, image crawler [1] was attempted where space images can be retrieved 
 While downloading images from pushing them into database, Every space image was driving me crazy..
 
 The Google deepdream [2] was an example that shows the machines can also visualize the beauty of nature in different way.
-Similarly, humans can visualize them in an such creative ways.
+Similarly, humans can visualize them in creative ways.
 Every human has an unique creative unique way of looking at things.
 
 We draw many pictures through our imagination while visualizing the clouds.
 We feel that the moon is coming along with us whenever we go. 
 Because, moon is static. Static objects often appear moving, but they aren't!
 Earth is dynamic which orbits, but we living species never feel it.
-Speed is hard to seen and our body can't handle towards one limit especially light speed.
+Our body can't handle travelling in light speed since it's can't be seen, but felt too much.
 
 During our middle school days, in zoology class, 
 we would have studied about vertebrates [3],
@@ -22,7 +22,7 @@ Like software versions, Every improved version reaches the next cycle.
 During childhood, we built the web page in HTML as helloworld.html that has nothing.
 But now, we build a responsive web page with beautiful css and javascript.
 Compared our today web development work with the first one, we see massive improvement.
-This is similar to vertebrates.
+This is how vertebrate cycle works.
 Humans are the best version in the vertebrates.
 What we humans lack are:- 
 Flying like a bird... For more, Watch X-men or any super-hero cartoons..
