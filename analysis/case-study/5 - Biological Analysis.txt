@@ -14,7 +14,8 @@ Because, moon is static. Static objects often appear moving, but they aren't!
 Earth is dynamic which orbits, but we living species never feel it.
 Speed is hard to seen and our body can't handle towards one limit especially light speed.
 
-During our middle school days, in zoology class, we would have studied about vertebrates [3],
+During our middle school days, in zoology class, 
+we would have studied about vertebrates [3],
 Followed by Charles Darwin theory and many more...
 While looking deeply at vertebrates, we often find a connection...
 Like software versions, Every improved version reaches the next cycle.
@@ -51,4 +52,23 @@ We immediately get a boost because whole body amplified significant amount of vo
 Whereas, few species inspite of motivated, they don't put a single effort, this is not problem in heart.
 The problem is in mind. 
 The mind will tell all nerves:- Hello! I can do this. But why i need efforts?
-Then nerves gets pissed and leaves.
+Then nerves gets angry and leaves.
+
+Here the network is distributed among the nerves.
+While analyzing that nervous system and circulatory system are different, but they are combined.
+Nervous system are more electrical trigger full of voltage that gets amplified and released.
+Whereas, circulatory system keeps the body active (like no system slowing down while doing any tasks)
+
+While relating all of them like hardware, software, networks and biology and visualize them in space images.
+We feel like we could interconnect most things to it.
+Though we haven't went very close and explored as well as we haven't travelled there in-person,
+but it appear more inter-related.
+Example: Star birth, which appears like human baby initial formation (not full formation)
+There are even more space captured pics that you can inter-relate..
+
+There have to be aliens because we are still exploring our everything.
+Unless we go further and explore beyond, it will be hard to know how everything has actually started.
+
+[1] https://github.com/ashumeow/random-space-images
+[2] https://github.com/google/deepdream
+[3] https://en.wikipedia.org/wiki/Vertebrate
