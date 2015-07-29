@@ -2,7 +2,6 @@
 
 The Version Theory is composed of several parts:- <br>
 [1] Analysis - [active]<br>
-The aliens-connect analysis is the combination of "descriptive analysis", "exploratory analysis" & "predictive analysis". <br>
 [2] Thesis [not-yet]<br>
 [3] Simulation [not-yet]<br>
 [4] Building Stuffs [not-yet]<br>
