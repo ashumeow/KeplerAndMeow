@@ -1,19 +1,20 @@
-How to connect?
+How to connect? => network
 Why to connect? => To explore
-Where to connect?
+Where to connect? => other planets/galaxies
 What to connect?
-Should we connect?
+Should we connect? => yes
 
 What are the possibilities?
 How can it be possible?
 Will it be possible? => Yes!
 
 Before connecting, a tracker is required.
-How to track? => Geo-locator
-Why to track? => To record the connecting distance and analyze it
+How to track? => Geo-locator (existing)
+Why to track? => To record the connecting distance and analyze it (existing)
 How to build a tracker? => There are existing ones.
-How to extend?
-How to implement tracking from one place without moving (tracking over longer distant planets/solar systems)?
+How to extend? => network, performance, signals (needs improvements)
+How to implement static tracking (tracking over longer distant planets/solar systems)? => satellites (existing)
+How to implement dynamic tracking? =>
 
-How to start tracker before connect?
-How to integrate track with connect?
+How to start tracker before connect? => geo-tracker (existing)
+How to integrate track with connect? => capturing the distance and performing calculations (exisiting)
